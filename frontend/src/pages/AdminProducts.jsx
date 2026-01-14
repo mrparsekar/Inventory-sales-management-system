@@ -139,7 +139,7 @@ export default function AdminProducts() {
       <Navbar />
       <div className="ap-container">
         <h2>Product Inventory Management</h2>
-        <p className="subtitle">{isStaff ? "Manage and update existing products" : ""}</p>
+        <p className="subtitle">{isStaff ? "" : ""}</p>
 
         {!isStaff && (
           <div className="ap-form">
