@@ -32,10 +32,6 @@ A full-stack web application for managing inventory, sales, and orders with role
 
 ### 👤 Customer Portal
 
-#### Customer Dashboard
-![Customer Dashboard](screenshots/customer-dashboard.png)
-*Customer overview with quick access to shopping and orders*
-
 #### Shopping Cart
 ![Shopping Cart](screenshots/cart.png)
 *Review items, update quantities, and proceed to checkout*
@@ -436,3 +432,4 @@ For support, email your-email@example.com or open an issue in the repository.
 ---
 
 ⭐ **If you find this project helpful, please give it a star!** ⭐
+
