@@ -86,7 +86,7 @@ A full-stack web application for managing inventory, sales, and orders with role
 *Manage all system users (customers, staff, admins)*
 
 #### Sales Analytics
-![Sales Analytics](screenshots/sales-analytics. png)
+![Sales Analytics](screenshots/sales-analytics.png)
 *Detailed sales reports and analytics dashboard*
 
 #### All Orders Management
@@ -432,4 +432,5 @@ For support, email your-email@example.com or open an issue in the repository.
 ---
 
 ⭐ **If you find this project helpful, please give it a star!** ⭐
+
 
