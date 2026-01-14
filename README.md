@@ -427,10 +427,11 @@ This project is licensed under the ISC License.
 
 ## 📞 Support
 
-For support, email your-email@example.com or open an issue in the repository. 
+For support, email shreyash466parsekar@gmail.com or open an issue in the repository. 
 
 ---
 
 ⭐ **If you find this project helpful, please give it a star!** ⭐
+
 
 
